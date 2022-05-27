@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MicroserviceLocalApplication<microservice-local>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.gioliveira.MicroserviceLocalApplication",
+            "projectName": "microservice-local",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
